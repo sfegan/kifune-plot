@@ -9,3 +9,5 @@ Draw the "Kifune" plot - the integral number of high energy sources detected as 
 The data for the number of X-ray and HE (GeV) gamma-ray sources come from a page on HEASARC maintained by Stephen A. Drake (retrieved 2017-09-28) : https://heasarc.gsfc.nasa.gov/docs/heasarc/headates/how_many_xray.html
 
 The data for the number of VHE (TeV) gamma-ray sources is from TeVCat maintained by Deirdre Horan and Scott Wakely  (retrieved 2017-09-28) : http://tevcat.uchicago.edu/
+
+![Kifune plot](https://raw.githubusercontent.com/sfegan/kifune-plot/master/kifune.png)
